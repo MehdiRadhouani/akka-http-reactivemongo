@@ -1,7 +1,7 @@
 ## How to run the service
 Clone the repository:
 ```
-> git clone
+> git clone https://github.com/MehdiRadhouani/akka-http-reactivemongo.git
 ```
 
 Get to the `akka-http-reactivemongo` folder:
